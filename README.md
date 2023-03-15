@@ -1,9 +1,10 @@
+[![MasterHead](https://madehuge.com/wp-content/uploads/2022/03/web-development.gif)](https://samssjubairportfolio.netlify.app)
 <h1 align="center">Hi 👋, I'm Samss Jubair</h1>
-<h3 align="center">MERN Stack developer and Machine Learning Researcher</h3>
+<h3 align="center">I'm a MERN Stack developer and Machine Learning Researcher</h3>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDhhYTkxNTJhZWFkZDJmZjJhZWExNjMyMWIzZDU5ZDM3OTE4OGRjNyZjdD1n/13HgwGsXF0aiGY/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samssjubair&label=Profile%20views&color=0e75b6&style=flat" alt="samssjubair" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samssjubair" alt="samssjubair" /></a> </p>
 
 - 🔭 I’m currently working on [MVC-Express-Mongoose Inventory Project](https://github.com/samssjubair/node-mvc-user-api)
 
