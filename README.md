@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on [MVC-Express-Mongoose Inventory Project](https://github.com/samssjubair/node-mvc-user-api)
 
-- 🌱 I’m currently learning **Laravel, Postgre**
+- 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at [samssjubairportfolio.netlify.app](samssjubairportfolio.netlify.app)
 
 - 📝 I regularly write articles on [https://dev.to/samssjubair](https://dev.to/samssjubair)
 
-- 💬 Ask me about **react, next, javascript, node, express, mongo**
+- 💬 Ask me about **react, next, javascript, node, express, mongo, typescript**
 
 - 📫 How to reach me **samssjubair@gmail.com**
 
