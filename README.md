@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [MVC-Express-Mongoose Inventory Project](https://github.com/samssjubair/node-mvc-user-api)
 
-- 🌱 I’m currently learning **AWS Cognito**
+- 🌱 I’m currently learning **AWS Cognito, vitest**
 
 - 👨‍💻 All of my projects are available at [samssjubairportfolio.netlify.app](samssjubairportfolio.netlify.app)
 
