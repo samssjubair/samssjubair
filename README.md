@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samssjubair&label=Profile%20views&color=0e75b6&style=flat" alt="samssjubair" /> </p>
 
-- 🔭 I’m currently working on [MVC-Express-Mongoose Inventory Project](https://github.com/samssjubair/node-mvc-user-api)
+- 🔭 I’m currently working on [JS Langchain Integration](https://github.com/samssjubair/langchain-js-integration)
 
-- 🌱 I’m currently learning **AWS Cognito, vitest**
+- 🌱 I’m currently learning **Langchain, AWS, Playwright**
 
 - 👨‍💻 All of my projects are available at [samssjubairportfolio.netlify.app](samssjubairportfolio.netlify.app)
 
