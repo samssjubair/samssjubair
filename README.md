@@ -1,4 +1,6 @@
 # Samss Jubair
+Software engineer in Dhaka with 5 years of experience. I build backend systems in Go and the React frontends on top of them.
+Currently at Strativ, working on industrial IoT.
 
 ### What I build
 
