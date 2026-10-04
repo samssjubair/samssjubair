@@ -32,12 +32,12 @@ Frontends in React, Vue, and Aurelia, including a Canvas-based image editor in t
 
 ### Stack
 
-**Languages:** Go · TypeScript · JavaScript · Python · SQL · C++
-**Backend:** gRPC · Echo · Node.js · Express · NestJS · Django
-**Data:** PostgreSQL · Redis · InfluxDB · MongoDB
-**Frontend:** React · Next.js · React Native · TanStack Query · Redux · Tailwind CSS
-**Infra:** AWS · Docker · GitHub Actions · Grafana
-**AI:** Claude & OpenAI APIs · LangChain
+- **Languages:** Go · TypeScript · JavaScript · Python · SQL · C++
+- **Backend:** gRPC · Echo · Node.js · Express · NestJS · Django
+- **Data:** PostgreSQL · Redis · InfluxDB · MongoDB
+- **Frontend:** React · Next.js · React Native · TanStack Query · Redux · Tailwind CSS
+- **Infra:** AWS · Docker · GitHub Actions · Grafana
+- **AI:** Claude & OpenAI APIs · LangChain
 
 ---
 
